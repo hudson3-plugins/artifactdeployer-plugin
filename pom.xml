@@ -14,7 +14,7 @@
     <packaging>hpi</packaging>
     <name>Hudson Artifact Deployer Plug-in</name>
     <description>Hudson Artifact Deployer Plug-in</description>
-    <version>0.27-h-1</version>
+    <version>0.27-h-2-SNAPSHOT</version>
     <url>http://wiki.hudson-ci.org/display/HUDSON/ArtifactDeployer+Plugin</url>
 
     <licenses>
